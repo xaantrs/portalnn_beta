@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Portal NN",
-  description: "Portal NN - Bem-vindo",
+  description: "Portal NN - Bem-vindo ao seu portal",
   generator: "v0.app",
 }
 
