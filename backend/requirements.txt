@@ -1,0 +1,6 @@
+Flask
+python-dotenv
+urllib3
+pyproj
+shapely
+Flask-Cors
